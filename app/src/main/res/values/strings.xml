@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mortal Combat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textViewMonster">monsterName</string>
+    <string name="textviewUser">userName</string>
+    <string name="healthMonster">0/0</string>
+    <string name="healthUser">0/0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textViewRestoreTime">0</string>
+    <string name="buttonTurnFight">Turn Fight</string>
+    <string name="textiVewMessageEnd">text of the end</string>
+    <string name="buttonRestart">Restart</string>
+    <string name="textViewMessageEnd">messageEnd</string>
+    <string name="textViewStart">Mortal Combat</string>
+    <string name="buttonStart">start the fight</string>
+</resources>
