@@ -13,4 +13,5 @@
     <string name="textViewMessageEnd">messageEnd</string>
     <string name="textViewStart">Mortal Combat</string>
     <string name="buttonStart">start the fight</string>
+    <string name="textViewCreator">Program by Sergey Fortis</string>
 </resources>
